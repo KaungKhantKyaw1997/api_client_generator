@@ -1,5 +1,5 @@
 name: api_client_generator
-version: 0.1.1
+version: 0.1.2
 description: A Dart package to generate API client code from an OpenAPI schema.
 repository: https://github.com/KaungKhantKyaw1997/api_client_generator
 homepage: https://github.com/KaungKhantKyaw1997/api_client_generator#readme
@@ -14,9 +14,6 @@ dependencies:
 
 dev_dependencies:
   test: ^1.25.7
-
-executables:
-  api_client_generator: api_client_generator
 
 topics:
   - api
