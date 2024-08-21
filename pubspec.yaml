@@ -23,5 +23,4 @@ topics:
   - client
   - generator
   - openapi
-  - http
   - code-generation
