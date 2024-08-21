@@ -1,4 +1,4 @@
-example/main.dart
+example/
 lib/api_client.dart
-test
+test/
 api_schema.yaml
