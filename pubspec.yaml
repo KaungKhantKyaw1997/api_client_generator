@@ -16,7 +16,7 @@ dev_dependencies:
   test: ^1.25.7
 
 executables:
-  api_client_generator: api_client_generator.dart
+  api_client_generator: api_client_generator
 
 topics:
   - api
