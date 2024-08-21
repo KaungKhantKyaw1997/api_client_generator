@@ -1,0 +1,7 @@
+paths:
+  /users:
+    get:
+      operationId: getUsers
+      responses:
+        "200":
+          description: successful operation

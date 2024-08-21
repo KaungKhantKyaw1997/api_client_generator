@@ -13,7 +13,7 @@ dependencies:
   yaml: ^3.1.2
 
 executables:
-  api_client_generator: bin/api_client_generator.dart
+  api_client_generator: api_client_generator.dart
 
 topics:
   - api
@@ -22,3 +22,5 @@ topics:
   - openapi
   - http
   - code-generation
+dev_dependencies:
+  test: ^1.25.7
